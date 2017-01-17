@@ -35,4 +35,4 @@ dependencies and to run the demo.
 If you're wondering what `polymer serve` does, see [Testing elements with local bower dependencies](https://www.polymer-project.org/1.0/docs/start/reusableelements.html#local-dependencies) 
 in the Polymer docs. 
 
-# This was a waste of time
+# This is a fun workshop!
